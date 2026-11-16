@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+artifacts/
+*.jwt
+*.key
+*.pem
+*.before
+onlyoffice-server-file.bin
+recovered-passwd.bin
+traversal-passwd.bin
+wopi-passwd.bin
+reconstructed.docx
